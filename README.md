@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🔭 I’m currently working on [_MERN STACK_]
 - 🌱 I’m currently learning [_NEXT JS / SOCKET.IO TAILWIND CSS_]
 - 👯 I’m looking to collaborate on [_MOBILE DEVELOPMENT / CLOUD COMPUTING / AI / MACHINE LEARNING / NETWORKING_]
-- 💬 Ask me about [_FRONTEND DEVELOPMENT  AND COMPUTER sCIENCE_]
-- 📫 How to reach me: [**Mail:** _muzamilmig@gmail.com / muzamiliqbalganie@gmail.com_ **Instagram:** _https://www.instagram.com/_iammuzamil/#_]
+- 💬 Ask me about [_FRONTEND DEVELOPMENT  AND COMPUTER SCIENCE_]
+- 📫 How to reach me: [**Mail:** _muzamilmig@gmail.com / muzamiliqbalganie@gmail.com_ **Instagram:** https://www.instagram.com/_iammuzamil/#]
 - ⚡ Fun fact: [_Royal Taste Buds_ ]
 
 ## My Skills
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 Here are some of the projects I've been working on:
 
-- [Project 1]([https://github.com/muzamiliqbalganaie/React-myshopping-app.git) - Full Stack Shopping App.
+- [Project 1](https://github.com/muzamiliqbalganaie/React-myshopping-app.git) - Full Stack Shopping App.
 - [Project 2](https://github.com/muzamiliqbalganaie/NextJs-Dasdboard.git) - NextJS Dashboard
 - [Project 3](https://github.com/muzamiliqbalganaie/Crud_React_App.git) - CRUD_REACT_APP
 
