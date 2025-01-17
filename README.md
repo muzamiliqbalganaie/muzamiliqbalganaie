@@ -33,8 +33,8 @@ Here are some of the projects I've been working on:
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/muzamiliqbal-ganaie-017223268)
-- [WhatsAPP](9682121112)
+- [LinkedIn](www.linkedin.com/muzamiliqbal-ganaie-017223268)
+- [WhatsAPP](+919682121112)
 - [Instagram](https://www.instagram.com/_iammuzamil/#)
 
 # Thanks for visiting my profile! Have a great day! 😄
