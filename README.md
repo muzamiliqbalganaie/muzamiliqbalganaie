@@ -1,16 +1,14 @@
 # Hi there, I'm Muzamil Iqbal Ganaie! 👋
-
 Welcome to my GitHub profile!
     I'm a passionate computer science student with a keen interest in web development, machine learning, etc.
  Here you'll find a collection of my projects, contributions, and other cool stuff I'm working on.
 
 ## About Me
-
-- 🔭 I’m currently working in [_MERN STACK_]
+- 🔭 I’m currently working in [MERN STACK]
 - 🌱 I’m currently learning [FRONTEND_DEVELOPMENT LIKE ,_NEXT JS / SOCKETO TAILWIND CSS_]
 - 👯 I’m looking to collaborate on [_MOBILE DEVELOPMENT / CLOUD COMPUTING / AI / MACHINE LEARNING / NETWORKING_]
 - 💬 Ask me about [_FRONTEND DEVELOPMENT  AND COMPUTER SCIENCE_]
-- 📫 How to reach me: [**Mail:** muzamiliqbalganie@gmail.com_ ]
+- 📫 How to reach me: [**Mail:** muzamiliqbalganie@gmail.com]
 - ⚡ Fun fact: [_Royal Taste Buds_ ]
 
 ### My Skills
