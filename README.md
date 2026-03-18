@@ -21,9 +21,9 @@ Here are some of the projects I've been working on:
 - [Project 1](https://github.com/muzamiliqbalganaie/React-myshopping-app.git) - Full Stack Shopping App.
 - [Project 2](https://github.com/muzamiliqbalganaie/NextJs-Dasdboard.git) - NextJS Dashboard
 - [Project 3](https://github.com/muzamiliqbalganaie/Crud_React_App.git) - CRUD_REACT_APP
-4)
-5)
-6)
+4]
+5]
+6]
 ### GitHub Stats
 
 ![Muzamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzamiliqbalganaie&show_icons=true&theme=radical)
